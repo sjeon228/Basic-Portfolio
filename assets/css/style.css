@@ -15,17 +15,17 @@ body {
 }
 
 h1 {
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	margin: 0;
 	font-size: 32px;
 }
 
 h2 {
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
 h3 {
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
 p {
@@ -196,7 +196,7 @@ footer p {
 	color: white;
 	text-align: center;
 	font-size: 24px;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	font-weight: lighter;
 }
 
@@ -345,7 +345,7 @@ footer p {
 	padding: 14px 14px;
 	background: #4aaaa5;
 	color: white;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	text-align: center;
 	font-size: 24px;
 }
