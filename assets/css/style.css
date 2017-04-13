@@ -119,6 +119,10 @@ footer p {
 	margin-bottom: 30px;
 }
 
+#Main p {
+	line-height: 22px;
+}
+
 
 #Main {
 	float: left;
@@ -270,7 +274,6 @@ footer p {
 	width: 100%;
 }
 
-
 /* Contact page */ 
 
 #ContactName {
@@ -346,3 +349,4 @@ footer p {
 	text-align: center;
 	font-size: 24px;
 }
+
